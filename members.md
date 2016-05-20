@@ -3,7 +3,7 @@ layout: page
 title: Members
 ---
 
-> The Fortraners members who share with love their brains into the *Fortran-FOSS-Programmers* Group
+> The Fortraners members that share with love their brains into the *Fortran-FOSS-Programmers* Group
 
 + [aamaricci](#aamaricci)
 + [cmacmackin](#cmacmackin)
