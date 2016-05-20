@@ -5,12 +5,18 @@ title: Members
 
 > The Fortraners members who lovely share their brains into the *Fortran-FOSS-Programmers* Group
 
-## [aamaricci](https://github.com/aamaricci)
++ [aamaricci](#aamaricci)
++ [cmacmackin](#cmacmackin)
++ [jacobwilliams](#jacobwilliams)
++ [szaghi](#szaghi)
+
+---
+
+##<a name="aamaricci"></a> [aamaricci](https://github.com/aamaricci)
 
 Adriano Amaricci
-> International School for Advanced Studies
->
-> Trieste, Italy
+
+*International School for Advanced Studies, Trieste, Italy*
 
 Personal projects:
 
@@ -18,12 +24,11 @@ Personal projects:
 
 ---
 
-## [cmacmackin](https://github.com/cmacmackin)
+##<a name="cmacmackin"></a> [cmacmackin](https://github.com/cmacmackin)
 
 Chris MacMackin
-> University of Oxford
->
-> Oxford, UK
+
+*University of Oxford, Oxford, UK*
 
 Personal projects:
 
@@ -36,10 +41,9 @@ Personal projects:
 
 ---
 
-## [jacobwilliams](https://github.com/jacobwilliams)
+##<a name="jacobwilliams"></a> [jacobwilliams](https://github.com/jacobwilliams)
 
 Jacob Williams
-> http://degenerateconic.com/
 
 Personal projects:
 
@@ -62,12 +66,13 @@ Personal projects:
 
 ---
 
-## [szaghi](https://github.com/szaghi)
+##<a name="szaghi"></a> [szaghi](https://github.com/szaghi)
 
 Stefano Zaghi
-> National Research Council of Italy, INSEAN Marine Technology Research Institute
->
-> Roma, Italy
+
+> a poor Fortraner with one purpose in mind... solve the compressible Navier-Stokes equations *everywhere*, *always*, *anyway*
+
+*National Research Council of Italy, INSEAN Marine Technology Research Institute, Rome Italy*
 
 Personal projects:
 
