@@ -22,3 +22,5 @@ version:          2.0.0
 
 github:
   repo:           https://github.com/Fortran-FOSS-Programmers/Fortran-FOSS-Programmers.github.io
+
+gems:             [jekyll-paginate]
